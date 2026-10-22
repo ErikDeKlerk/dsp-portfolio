@@ -1,0 +1,17 @@
+# Data (not redistributed, see README)
+data/
+*.csv
+*.wav
+*.pgm
+*.mat
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
